@@ -89,8 +89,6 @@ print(le.inverse_transform(x_single_prediction))
 <br>
 <br>
 
-##### Confusion Matrix:
-![image](https://github.com/user-attachments/assets/ec02eb64-4362-43ae-8dc9-2ad1b2510c4d)
 
 </td>
 </tr> 
