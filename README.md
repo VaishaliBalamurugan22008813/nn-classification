@@ -67,7 +67,8 @@ print(le.inverse_transform(x_single_prediction))
 **df.head()** <br>
 ![image](https://github.com/user-attachments/assets/80ffc327-d8fb-40f7-8c4c-3e3fb4cf0931)
 
-**df.info()**![image](https://github.com/user-attachments/assets/fb5f4c60-434e-4e85-9729-f4b5db091a51)
+**df.info()**
+![image](https://github.com/user-attachments/assets/fb5f4c60-434e-4e85-9729-f4b5db091a51)
 **df.isnull().sum()** <br> 
 <img height=20% valign=top src="https://github.com/user-attachments/assets/1e136b13-c69d-48ec-8096-f997f14768b1">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img valign=top src="https://github.com/user-attachments/assets/220f75ea-ecce-4747-b72b-cceecbaaf431">
