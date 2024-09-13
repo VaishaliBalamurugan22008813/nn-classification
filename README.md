@@ -18,8 +18,8 @@ Include the neural network model diagram.
 - STEP 5: Predicting the with Sample values.
 ### Program:
 ```Python
-**Developed By:VAISHALI BALAMURUGAN**<br>
-**Register No :   212222230164**
+Developed By:VAISHALI BALAMURUGAN
+Register No :   212222230164
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
