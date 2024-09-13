@@ -65,8 +65,10 @@ print(le.inverse_transform(x_single_prediction))
 ### Output:
 ##### Dataset Information:
 **df.head()** <br>
-<img src="https://github.com/user-attachments/assets/ae8750df-65ac-4e4d-8407-eec5407a9e88"><br>
-**df.info()** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **df.isnull().sum()** <br> 
+![image](https://github.com/user-attachments/assets/80ffc327-d8fb-40f7-8c4c-3e3fb4cf0931)
+
+**df.info()**![image](https://github.com/user-attachments/assets/fb5f4c60-434e-4e85-9729-f4b5db091a51)
+**df.isnull().sum()** <br> 
 <img height=20% valign=top src="https://github.com/user-attachments/assets/1e136b13-c69d-48ec-8096-f997f14768b1">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img valign=top src="https://github.com/user-attachments/assets/220f75ea-ecce-4747-b72b-cceecbaaf431">
 
@@ -76,12 +78,14 @@ print(le.inverse_transform(x_single_prediction))
 <td width=50%>
   
 ##### Training Loss, Validation Loss Vs Iteration Plot:
-<img height=23% src="https://github.com/user-attachments/assets/83fb35b4-40a2-4f38-ab95-18cb34d0a60a">
+![image](https://github.com/user-attachments/assets/ac534141-bee3-4abc-84db-0e54a7b6c86c)
+
 </td> 
 <td valign=top>
 
 ##### Classification Report:
-<img src="https://github.com/user-attachments/assets/ce4d3fcd-cb51-4fa4-b34e-db0b85c299dc">
+![image](https://github.com/user-attachments/assets/92d06bee-96e4-416c-966b-1093f4f5ca00)
+
 <br>
 <br>
 
